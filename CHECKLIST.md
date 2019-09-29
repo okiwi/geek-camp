@@ -40,7 +40,7 @@
 * marqueurs
 * post-its
 * papier craft
-* video projs
+* video projs - ceux d'okiwi sont au Coolworking - penser à demander celui de la mairie aussi
 * outils barbecue
 * charbon de bois (on sait jamais)
 * allume feu
