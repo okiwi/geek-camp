@@ -51,6 +51,7 @@
 * couteaux de cuisine
 * ouvre boite 
 * tire-bouchon
+* sac poubelle 100l
 
 # individuellemnt
 * de quoi dormir
