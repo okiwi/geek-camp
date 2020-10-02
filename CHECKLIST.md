@@ -58,6 +58,7 @@
 
 # individuellemnt
 * de quoi dormir
+* serviette, savon, etc. il y a une douche sur place
 * jeux de societé
 * lampe de poche
 * livres
